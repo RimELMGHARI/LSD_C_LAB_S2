@@ -14,6 +14,8 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdbool.h>
+#include <math.h>
+#include <stdlib.h>
 
 void    get_primes(int n);
 void    get_primes_opt(int n);
