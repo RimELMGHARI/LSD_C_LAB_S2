@@ -1,1 +1,11 @@
 
+
+int struct node
+{
+    int value;
+    struct node *next_node;
+}
+
+
+typedef struct node node;
+typedef struct node *t_list;
