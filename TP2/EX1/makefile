@@ -1,5 +1,5 @@
 
-SRC = main.c
+SRC = main.c t_point.c flood_fill.c
 
 PRO_NAME= prog
 
