@@ -30,4 +30,5 @@ void position(t_point t)
 {
     printf("please enter positon:\n");
     scanf("n:%d \n m:%d",t.n ,t.m);
+    
 }
