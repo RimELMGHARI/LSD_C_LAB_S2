@@ -7,5 +7,5 @@
 */
 int     get_third_largest(int *tab, int size)
 {
-        // write your algo here
+    
 }
