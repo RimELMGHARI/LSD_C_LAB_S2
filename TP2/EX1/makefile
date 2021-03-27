@@ -1,5 +1,6 @@
 
-SRC = main.c allocated_array.c array_inputs.c array_output.c
+SRC = main.c
+
 PRO_NAME= prog
 
 all:
