@@ -1,6 +1,7 @@
 
-#include<stdio.h>
-#include<stdlib.h>
+#include"header.h"
+#include"fct.h"
+
 /*
 struct celluleDouble
 {
@@ -17,7 +18,7 @@ struct listeDouble
     unsigned longueur;
 };
 typedef struct listeDouble listeDouble;
-*/
+
 struct node 
 {
     char value;
@@ -77,7 +78,7 @@ unsigned length(list L)
     return l;
 }
 
-
+*/
 list stringToList(char *arr)
 {
 	list L;
